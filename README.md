@@ -1,5 +1,4 @@
-![354223102_642172021265873_3675297031987126265_n — kopia](https://github.com/Plichciu/plichciu/assets/92714110/5f9059e2-2994-4ceb-a7c7-711606073b9d)
-
+![354223102_642172021265873_3675297031987126265_n — kopia](https://github.com/Plichciu/plichciu/assets/92714110/4fbd5547-d3b7-4a59-a136-33aea1dbca8e)
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
